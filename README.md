@@ -12,6 +12,6 @@
 
 <a href="https://github.com/PisecesPeng">
     <div align="center">
-      <img width='87%' src="https://cdn.jsdelivr.net/gh/pisecespeng/pisecespeng@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+      <img width='79%' src="https://cdn.jsdelivr.net/gh/pisecespeng/pisecespeng@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
     </div>
 </a>
