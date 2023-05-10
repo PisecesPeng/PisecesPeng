@@ -4,17 +4,18 @@
 <!-- LINE -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/PisecesPeng/PisecesPeng/main/images/code.gif" width="450" />
-
 <!-- I LOVE OPEN SOURCE -->
 <p align="center">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<p>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PisecesPeng/PisecesPeng/main/images/code.gif" width="450" />
+</p>
 
 <p align="center">
 👉 <strong>My GitHub Wrapped</strong> 👈
-<p>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PisecesPeng/github-stats/master/generated/overview.svg" width="40%">
@@ -23,24 +24,20 @@
 
 <!-- INTEREST TITLE -->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<img src="https://i.imgur.com/ozEwbHs.gif" width="20%">
 </p>
 
 <p align="center">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png">
-<img height="39" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/web-assembly/web-assembly.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png">
 </p>
 
 <p align="center">
