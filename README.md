@@ -33,7 +33,7 @@
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/web-assembly/web-assembly.png">
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png">
+<img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/netty/netty.png">
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png">
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
 <img height="41" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
