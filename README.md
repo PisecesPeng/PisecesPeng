@@ -13,15 +13,6 @@
 <img src="https://raw.githubusercontent.com/PisecesPeng/PisecesPeng/main/images/code.gif" width="450" />
 </p>
 
-<p align="center">
-👉 <strong>My GitHub Wrapped</strong> 👈
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/PisecesPeng/github-stats/master/generated/overview.svg" width="40%">
-<img src="https://raw.githubusercontent.com/PisecesPeng/github-stats/master/generated/languages.svg" width="40%">
-</p>
-
 <!-- INTEREST TITLE -->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif" width="20%">
